@@ -379,7 +379,11 @@ class Category extends BaseController {
         $this->global['records'] = $this->common_model->get_records('tbl_our_clients', "status = '0' order by date_time desc");
         $this->loadViews("ourclients", $this->global, NULL, NULL);
     }
-    
+    public function corporates() {
+        $this->global['pageTitle'] = 'corporates' . ' - ' . $this->config->item('app_name');
+        $this->global['records'] = $this->common_model->get_records('tbl_our_corporates', "status = '0' order by date_time desc");
+        $this->loadViews("corporates", $this->global, NULL, NULL);
+    }
       public function media_coverage() {
         $this->global['pageTitle'] = 'clients' . ' - ' . $this->config->item('app_name');
         $this->global['records'] = $this->common_model->get_records('tbl_media_coverage', "status = '0' order by date_time desc");

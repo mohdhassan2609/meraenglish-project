@@ -344,9 +344,12 @@
                         </a>
                         <ul class="nav-second-level" aria-expanded="false">
                             <li>
-                                <a href="<?= base_url() ?>admin/clients">Clients List</a>
+                                <a href="<?= base_url() ?>admin/clients">College List</a></li>
+                                <li>
+                                <a href="<?= base_url() ?>admin/corporates">Corporate List</a>
+                            </li>
                         </ul>
-                    </li>
+                    
                     <li>
                         <a href="javascript: void(0);">
                             <i class="fe-pocket"></i>

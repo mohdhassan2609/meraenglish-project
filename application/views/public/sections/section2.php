@@ -23,13 +23,13 @@
                     </div>
                     <p><b>There are so many websites to learn English. Why MeraEnglish.com?</b></p>
 
-<p>Learning is never a passive activity; If you are not able to apply the learning and interact with the content, you are actually not learning. Only those courses that enable you to apply the learning and interact with the content actually help you learn. This philosophy guides all the courses in MeraEnglish.com</p>
+<p>Learning is never a passive activity; only those courses that enable you to interact with the content and apply the learning actually help you learn. This philosophy guides all the courses in MeraEnglish.com</p>
 
 
-<p>Whether it is learning words, idioms or writing emails, all the courses that you find here are  developed based on application and thereby maximizing your learning. </p>
+<p>Whether it is learning words, idioms or writing emails, all the courses that you find here are application-based. This approach maximizes your learning.  </p>
 
 
-<p>With our courses you are guaranteed to learn efficiently and more importantly retain the learning for many years to come</p>
+<p>With our courses you are guaranteed to learn efficiently and more importantly retain the learning for many years to come.</p>
 
                     
                      <div class="row justify-content-center">
@@ -49,12 +49,12 @@
                         <!--<div class="col-lg-6">-->
                         <!--    <a href="#" class="btn btn-modern-new f-twitter mb-3">7895+ Followers<span><i class="ti-twitter"></i></span></a>-->
                         <!--</div>-->
-                         <div class="col-lg-6">
+                         <!-- <div class="col-lg-6">
                             <a href="#" class="btn btn-modern-new f-linkedin mb-3">7895+ Followers<span><i class="ti-linkedin"></i></span></a>
                         </div>
                         <div class="col-lg-6">
                             <a href="#" class="btn btn-modern-new f-facebook mb-3">7895+ Followers<span><i class="ti-facebook"></i></span></a>
-                        </div>
+                        </div> -->
                     </div>
 
 

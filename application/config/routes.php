@@ -251,7 +251,7 @@ $route['admin/partnertitle'] = "admin/category/partnertitle";
 $route['admin/partnersection'] = "admin/category/partnersection";
 
 $route['admin/clients'] = "admin/category/clients";
-
+$route['admin/corporates'] = "admin/category/corporates";
 $route['admin/child-categories'] = "admin/category/list_child_category_page";
 
 
