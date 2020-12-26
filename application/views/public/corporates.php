@@ -12,7 +12,7 @@
                 </div>
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item active">Our College Clients</li>
+                    <li class="breadcrumb-item active">Our Corporate Clients</li>
                 </ol>
             </div>
         </div>
