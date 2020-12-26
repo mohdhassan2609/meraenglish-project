@@ -103,6 +103,10 @@ class Frontend extends BaseController {
         $this->global['records'] = $this->frontend_model->get_records("tbl_our_clients", "status='0'"); 
         $this->loadPage("clients", $this->global);
     }
+    public function corporates() {
+        $this->global['records'] = $this->frontend_model->get_records("tbl_our_corporates", "status='0'"); 
+        $this->loadPage("corporates", $this->global);
+    }
 
     public function contact_form_post() {
         $data['result'] = 0;

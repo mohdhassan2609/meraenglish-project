@@ -86,7 +86,13 @@
                                         <?php endfor; ?>
                                     </ul>
                                 </li>
-                                <li><a href="<?= base_url() ?>clients">Clients</a></li>
+                                <li class=""><a >Clients<span class="submenu-indicator"></span></a>
+                                    <ul class="nav-dropdown nav-submenu">
+                                            <li><a href="<?= base_url() ?>clients">College Clients</a></li>
+                                            <li><a href="<?= base_url() ?>corporates">Corporate Clients</a></li>
+                                    </ul>
+                                </li>
+                                <!-- <li><a href="<?= base_url() ?>clients">Clients</a></li> -->
                                 <!--<li><a href="<?= base_url() ?>blog">Blog</a></li>-->
                                 <!--<li><a href="<?= base_url() ?>media-coverage">Media</a></li>-->
                                 <li><a href="<?= base_url() ?>contact-us">Contact</a></li>

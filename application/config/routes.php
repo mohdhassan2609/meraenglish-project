@@ -134,7 +134,7 @@ $route['support'] = 'frontend/support';
 $route['login'] = 'frontend/student_logout';
 
 $route['clients'] = 'frontend/clients';
-
+$route['corporates'] = 'frontend/corporates';
 $route['checkoutPost'] = 'frontend/checkoutPost';
 $route['checkoutPostFree'] = 'frontend/checkoutPostFree';
 $route['checkout'] = 'frontend/checkout';
